@@ -1,5 +1,11 @@
 # BlockLL
 
+
+You can Play at https://mirrormouse.github.io/BlockLL/
+※WebGLの問題により、モバイル端末には対応していません。
+
+
+
 NotoSansライセンス表示：
 
 以下、OFL.txtの全文
