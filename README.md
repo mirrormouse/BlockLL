@@ -1,5 +1,18 @@
 # BlockLL
 
+
+You can Play at https://mirrormouse.github.io/BlockLL/
+※WebGLの問題により、モバイル端末には対応していません。
+
+
+## 更新情報
+
+色覚多様性を考慮したブロックのデザイン変更を行いました。
+
+
+
+## ライセンス表示
+
 NotoSansライセンス表示：
 
 以下、OFL.txtの全文
